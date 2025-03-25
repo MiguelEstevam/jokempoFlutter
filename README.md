@@ -35,7 +35,7 @@ Este projeto é um jogo simples de Jokempo (Pedra, Papel e Tesoura) desenvolvido
    ```
 
 ## 📱 Capturas de Tela
-![Captura de Tela](screenshot.png)
+![Captura de Tela](screenshot.jpeg)
 
 ## 📄 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
