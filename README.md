@@ -1,6 +1,6 @@
 # Jokempo (Pedra, Papel e Tesoura) - Flutter
 
-Este projeto é um jogo simples de Jokempo (Pedra, Papel e Tesoura) desenvolvido em Flutter. Ele permite que o usuário jogue contra a máquina, que faz escolhas aleatórias.
+Este projeto é um jogo simples de Jokempo (Pedra, Papel e Tesoura) desenvolvido em Flutter. Ele permite que o usuário jogue contra a máquina, que faz escolhas aleatórias, e retorna o vencedor ou se deu empate.
 
 ## Desenvolvedores
 - **Guilherme Santos** - Matrícula: `123100030`
